@@ -4,16 +4,22 @@ FavoritePhotos
 
 As a user, I would like to search for photos on flicker
 3 points
+
 As a user, I would like to display the photos in a view such that the image takes up the entire width of the screen
 2 points
+
 As a user, I would like to be able to scroll through the first 10 returned images
 2 points
+
 As a user, I would like to tap an image, or an icon on the image, to mark it as a favorite
 2 points
+
 As a user, I would like to see my marked favorites in a separate view
 3 points
+
 As a user, I would like to view my favorite photos when I start the app
 3 points
+
 As a user, I would like to view my favorites even if there is no internet connection
 3 points
 
