@@ -1,3 +1,9 @@
+Persistence & NSUserDefaults
+============================
+
+The NSUserDefaults class provides convenience methods for accessing common types such as floats, doubles, integers, Booleans, and URLs. A default object must be a property list, that is, an instance of (or for collections a combination of instances of): NSData, NSString, NSNumber, NSDate, NSArray, or NSDictionary.
+
+
 FavoritePhotos
 ==============
 
